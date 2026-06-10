@@ -2,7 +2,6 @@
 
 ### Name: Divya A
 ### Register Number: 2305002007
-### Reg No: 2305002001
 
 ## AIM
 
